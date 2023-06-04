@@ -8,3 +8,7 @@ git commit: (first time: initial commit) save changes to repo's file.
         -m "include your message" -m "use it again for description"
 git checkout: matches the file with last commit
     -f : all files restore.
+git log: checks for commits
+    -p -3: how many last commits(3) you want to see
+
+ git diff --staged: comapares staged file with orginal file.
