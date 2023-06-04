@@ -6,6 +6,7 @@ git add <file>: adds the new file to repo's staging area.
 git status: tells us about file status.
 
 git commit: (first time: initial commit) save changes to repo's file.
+        -a: skip stage and push directly.
         -m "include your message" -m "use it again for description"
 
 git checkout: matches the file with last commit
