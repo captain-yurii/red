@@ -1,0 +1,9 @@
+This file contains all the commands for Git
+
+
+ls -a : used to list hidden files.
+git add <file>: adds the new file to repo's staging area.
+git status: tells us about file status.
+git commit: (first time: initial commit) save changes to repo's file.
+        -m "include your message" -m "use it again for description"
+
